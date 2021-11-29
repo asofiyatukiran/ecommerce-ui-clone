@@ -1,9 +1,9 @@
 # Insturction on how to setup project and run
 
-step 1 : clone this project by copy HTTP link or download zip file
-step 2 : Open this project via Visual Stuio Code
-step 3 : To run this project, remove package-lock.json file.
-step 4 : Open terminal and type npm install
+step 1 : clone this project by copy HTTP link or download zip file\
+step 2 : Open this project via Visual Stuio Code\
+step 3 : To run this project, remove package-lock.json file.\
+step 4 : Open terminal and type npm install\
 step 5 : After settle the installation, on terminal type npm start (to start the project)
 
 # Getting Started with Create React App
